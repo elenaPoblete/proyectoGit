@@ -1,1 +1,1 @@
-este es un primer git
+este es un primer git remote
